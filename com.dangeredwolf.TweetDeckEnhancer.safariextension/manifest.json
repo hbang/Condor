@@ -27,14 +27,14 @@
   },
 
   "icons": {
-      "16": "AppIcon16.png",
-      "24": "AppIcon24.png",
-      "32": "AppIcon32.png",
-      "48": "AppIcon48.png",
-      "64": "AppIcon64.png",
-      "128": "AppIcon128.png",
-      "256": "AppIcon256.png"
-   },
+    "16": "AppIcon16.png",
+    "24": "AppIcon24.png",
+    "32": "AppIcon32.png",
+    "48": "AppIcon48.png",
+    "64": "AppIcon64.png",
+    "128": "AppIcon128.png",
+    "256": "AppIcon256.png"
+  },
 
   "web_accessible_resources": [
     "resources",
