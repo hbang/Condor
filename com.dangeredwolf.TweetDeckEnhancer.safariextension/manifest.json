@@ -15,15 +15,15 @@
 
   "content_scripts": [
     {
-      "matches": ["https://tweetdeck.twitter.com/"],
-      "js": ["extension/TDELoad.js"],
+      "matches": [ "https://tweetdeck.twitter.com/" ],
+      "js": [ "extension/TDELoad.js" ],
       "run_at": "document_end"
     }
   ],
 
   "background": {
-    "scripts": ["extension/TDEBackground.js"],
-    "persistent": true
+    "scripts": [ "extension/TDEBackground.js" ],
+    "persistent": false
   },
 
   "icons": {
