@@ -1,6 +1,6 @@
 {
   "ExtDesc": {
-    "message": "TweetDeck Enhancer führt ein schönes, neues TweetDeck-Interface, das für Material Design konzipiert wurde, und andere benutzerfreundliche Funktionen ein.",
+    "message": "Condor führt ein schönes, neues TweetDeck-Interface, das für Material Design konzipiert wurde, und andere benutzerfreundliche Funktionen ein.",
     "description": "TDE's description"
   },
 
@@ -48,7 +48,7 @@
   },
 
   "ExpandedViewWarning1": {
-    "message": "Hallo! Sie sehen diese Nachricht, weil Sie die erweiterte Tab-Ansicht verwenden. Die erweiterte Tab-Ansicht wird von TweetDeck Enhancer wegen dessen neuen horizontalen App-Leiste aktuell nicht unterstützt.",
+    "message": "Hallo! Sie sehen diese Nachricht, weil Sie die erweiterte Tab-Ansicht verwenden. Die erweiterte Tab-Ansicht wird von Condor wegen dessen neuen horizontalen App-Leiste aktuell nicht unterstützt.",
     "description": ""
   },
   "ExpandedViewWarning2": {

@@ -1,6 +1,6 @@
 {
   "ExtDesc": {
-    "message": "TweetDeck Enhancer adiciona uma incrível nova interface ao Tweetdeck, desenhada utilizando o Material Design e adiciona outros recursos de usabilidade.",
+    "message": "Condor adiciona uma incrível nova interface ao Tweetdeck, desenhada utilizando o Material Design e adiciona outros recursos de usabilidade.",
     "description": "TDE's description"
   },
 
@@ -48,7 +48,7 @@
   },
 
   "ExpandedViewWarning1": {
-    "message": "Olá! Você está vendo isso porque você está utilizando a visualização de aba expandida. A visualização de aba expandida atualmente não é suportada pelo TweetDeck Enhancer devido a sua nova barra horizontal.",
+    "message": "Olá! Você está vendo isso porque você está utilizando a visualização de aba expandida. A visualização de aba expandida atualmente não é suportada pelo Condor devido a sua nova barra horizontal.",
     "description": ""
   },
   "ExpandedViewWarning2": {

@@ -1,6 +1,6 @@
 {
   "ExtDesc": {
-    "message": "TweetDeck Enhancer améliore l'interface de TweetDeck en utilisant un style s'inspirant du Material Design, et ajoute de nombreuses fonctionnalités.",
+    "message": "Condor améliore l'interface de TweetDeck en utilisant un style s'inspirant du Material Design, et ajoute de nombreuses fonctionnalités.",
     "description": "Description de TDE"
   },
 
@@ -48,7 +48,7 @@
   },
 
   "ExpandedViewWarning1": {
-    "message": "Bonjour ! Vous voyez ce message car vous avez activé l'affichage étendu des onglets. L'affichage étendu n'est actuellement pas supporté par TweetDeck Enhancer à cause de sa nouvelle barre horizontale.",
+    "message": "Bonjour ! Vous voyez ce message car vous avez activé l'affichage étendu des onglets. L'affichage étendu n'est actuellement pas supporté par Condor à cause de sa nouvelle barre horizontale.",
     "description": ""
   },
   "ExpandedViewWarning2": {

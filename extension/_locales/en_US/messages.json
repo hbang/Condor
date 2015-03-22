@@ -1,6 +1,6 @@
 {
   "ExtDesc": {
-    "message": "TweetDeck Enhancer adds a beautiful new TweetDeck interface, designed for Material Design, and adds other usability features.",
+    "message": "Condor makes TweetDeck look the way it should have.",
     "description": "TDE's description"
   },
 
@@ -48,11 +48,11 @@
   },
 
   "ExpandedViewWarning1": {
-    "message": "Hi! You're seeing this because you're using the expanded tab view. The expanded tab view is currently not supported in TweetDeck Enhancer due to its new horizontal App Bar.",
+    "message": "Hi! You're seeing this because you're using the expanded tab view. The expanded tab view is currently not supported in Condor due to its new horizontal App Bar.",
     "description": ""
   },
   "ExpandedViewWarning2": {
-    "message": "To restore the regular tab view, please press the X key on your keyboard, and TweetDeck will fix it automatically. Thank you^^",
+    "message": "To restore the regular tab view, please press the X key on your keyboard, and TweetDeck will fix it automatically.",
     "description": ""
   },
 
