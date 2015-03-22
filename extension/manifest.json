@@ -16,28 +16,27 @@
   "content_scripts": [
     {
       "matches": [ "https://tweetdeck.twitter.com/" ],
-      "js": [ "extension/TDELoad.js" ],
+      "css": [ "resources/app-dark.css", "resources/app-light.css" ],
       "run_at": "document_end"
     }
   ],
 
   "background": {
-    "scripts": [ "extension/TDEBackground.js" ],
+    "scripts": [ "background.js" ],
     "persistent": false
   },
 
   "icons": {
-    "16": "AppIcon16.png",
-    "24": "AppIcon24.png",
-    "32": "AppIcon32.png",
-    "48": "AppIcon48.png",
-    "64": "AppIcon64.png",
-    "128": "AppIcon128.png",
-    "256": "AppIcon256.png"
+    "16": "resources/AppIcon16.png",
+    "24": "resources/AppIcon24.png",
+    "32": "resources/AppIcon32.png",
+    "48": "resources/AppIcon48.png",
+    "64": "resources/AppIcon64.png",
+    "128": "resources/AppIcon128.png",
+    "256": "resources/AppIcon256.png"
   },
 
   "web_accessible_resources": [
-    "resources",
     "resources/*"
   ],
 
