@@ -15,6 +15,7 @@
     {
       "matches": [ "https://tweetdeck.twitter.com/" ],
       "js": [ "content.js" ],
+      "css": [ "resources/global.css" ],
       "run_at": "document_end"
     }
   ],
