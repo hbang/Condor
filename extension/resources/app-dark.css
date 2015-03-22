@@ -6393,7 +6393,7 @@ a.js-column-back.link-complex:active {
 
 	0% {
 		opacity: -1;
-		left: 10px;
+		left: auto;
 		bottom: -45px;
 		height: 50px;
 		transform: scale(1,1)
@@ -6401,7 +6401,7 @@ a.js-column-back.link-complex:active {
 
 	100% {
 		opacity: 1;
-		left: 10px;
+		left: auto;
 		bottom: -140px;
 		height: 145px;
 		transform: scale(1,1)
