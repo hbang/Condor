@@ -8,23 +8,16 @@
   "default_locale": "en_US",
 
   "permissions": [
-    "webRequest",
-    "webRequestBlocking",
     "https://tweetdeck.twitter.com/"
   ],
 
   "content_scripts": [
     {
       "matches": [ "https://tweetdeck.twitter.com/" ],
-      "css": [ "resources/app-dark.css", "resources/app-light.css" ],
+      "js": [ "content.js" ],
       "run_at": "document_end"
     }
   ],
-
-  "background": {
-    "scripts": [ "background.js" ],
-    "persistent": false
-  },
 
   "icons": {
     "16": "resources/AppIcon16.png",
