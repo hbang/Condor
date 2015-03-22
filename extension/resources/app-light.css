@@ -15590,6 +15590,7 @@ h1.js-contributor-manager-back.is-actionable.txt-base-extra-large.pull-left.txt-
 .js-show-drawer.tweet-button.btn-compose.is-hidden {
 	display: inline-block!important;
 	border-radius: 0px;
+	height: 40px;
 	width: 271px;
 	margin-left: -5px;
 	margin-top: -4px;
