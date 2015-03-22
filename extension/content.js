@@ -9,6 +9,7 @@
 		} else if (window.safari) {
 			return safari.extension.baseURI + url;
 		} else { // welp.
+			console.warn("unknown browser: getURL(" + url + ")");
 			return url;
 		}
 	}
@@ -22,4 +23,8 @@
 
 	$("link[rel=stylesheet][title=dark]").href = getURL("resources/app-dark.css");
 	$("link[rel=stylesheet][title=light]").href = getURL("resources/app-light.css");
+
+	var updateSound = $("#update-sound");
+	updateSound.querySelector("source[type=audio/mp3]").src = getURL("resources/alert.mp3");
+	updateSound.querySelector("source[type=audio/ogg]").src = getURL("resources/alert.ogg");
 })(document);
