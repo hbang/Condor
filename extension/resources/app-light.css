@@ -9884,7 +9884,6 @@ i.icon.icon-clear-timeline {
 	background: #F9F9F9;
 	background-clip: padding-box;
 	-webkit-background-clip: padding-box;
-	-webkit-animation: popgoesthetweet 0.4s 1;
 }
 
 .modal-content-with-border {
@@ -15590,6 +15589,7 @@ h1.js-contributor-manager-back.is-actionable.txt-base-extra-large.pull-left.txt-
 .js-show-drawer.tweet-button.btn-compose.is-hidden {
 	display: inline-block!important;
 	border-radius: 0px;
+	height: 40px;
 	width: 271px;
 	margin-left: -5px;
 	margin-top: -4px;
