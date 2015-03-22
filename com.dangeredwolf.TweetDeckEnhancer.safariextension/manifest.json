@@ -41,11 +41,5 @@
     "resources/*"
   ],
 
-  "browser_action": {
-    "default_icon": "resources/oneclick/InstaTweetDeck.png",
-    "default_popup": "extension/ITD.html",
-    "default_title": "__MSG_ButtonHoverTitle__"
-  },
-
   "manifest_version": 2
 }
