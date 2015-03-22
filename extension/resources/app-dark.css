@@ -14393,8 +14393,7 @@ a.txt-r-on-dark-blue {
 }
 
 .app-navigator .dropdown-menu {
-	top: auto;
-	bottom: -140px;
+	top: 52px;
 	left: 10px;
 	-webkit-animation: settingsmenucomedown 0.25s;
 	/* transform: scale(0.5,0.5); */
@@ -14411,7 +14410,6 @@ a.txt-r-on-dark-blue {
 	float: right;
 	/* margin-top: -35px; */
 	/* margin-right: -135px; */
-	display: none;
 }
 
 a.js-header-action.js-app-settings.link-clean.cf.app-nav-link.padding-hl {
