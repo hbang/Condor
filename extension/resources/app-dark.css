@@ -4016,7 +4016,7 @@ button.js-toggle-button.btn.js-toggle-users.is-selected:hover {
 	width: 26px;
 	height: 26px;
 	position: absolute;
-	z-index: 999999999999999999;
+	z-index: 1001;
 	background-size: 26px 26px;
 	transition: 250ms all!important;
 	transition-timing-function: cubic-bezier(.55,0,.1,1);
@@ -5802,7 +5802,7 @@ a.js-column-back.link-complex:active {
 
 .list-edit-button {
 	margin-top: 10px;
-	z-index: 99999999999;
+	z-index: 1001;
 }
 
 .is-new .column-message {
@@ -5819,7 +5819,7 @@ a.js-column-back.link-complex:active {
 	opacity: 1!important;
 	background-color: rgba(38, 50, 56, 1);
 	box-shadow: 0 1px 10px rgba(0, 0, 0, 0.25);
-	z-index: 5000000;
+	z-index: 1001;
 	position: relative;
 	color: #fff;
 	transition: 200ms all;
@@ -7907,7 +7907,7 @@ img.spinner-centered {
 	user-select: none;
 	width: 200px;
 	background-color: rgba(0, 0, 0, 0.1);
-	z-index: 9999999999999999999;
+	z-index: 1001;
 	pointer-events: none;
 }
 
@@ -8105,7 +8105,7 @@ img.spinner-centered {
 	transition-timing-function: cubic-bezier(.55,0,.1,1)!important;
 	margin-left: -5px;
 	width: 271px;
-	z-index: 9999999999;
+	z-index: 1001;
 }
 
 .with-nav-border-t:before {
@@ -8373,12 +8373,12 @@ img.spinner-centered {
 	margin-top: 2px;
 	margin-left: 70px;
 	right: 0;
-	z-index: 9999999999999999999999;
+	z-index: 1001;
 }
 
 .app-search-in-popover {
 	display: block;
-	z-index: 9999999999999;
+	z-index: 1001;
 	pointer-events: all;
 }
 
@@ -8605,7 +8605,7 @@ i.icon.icon-clear-timeline {
 	background-color: rgba(153,153,153,0.2);
 	transition: 250ms background-color;
 	box-shadow: 0 1px 10px rgba(17,17,17,0.35);
-	z-index: 9999999999999;
+	z-index: 1001;
 	transform: scale(1.025);
 }
 
@@ -9752,7 +9752,7 @@ i.icon.icon-clear-timeline {
 	top: 50px;
 	margin-top: auto;
 	margin-bottom: auto;
-	z-index: 9999999999999999999999;
+	z-index: 1001;
 }
 
 .s-profile {
@@ -10350,7 +10350,7 @@ input#file-upload-input {
 	position: absolute;
 	display: block!important;
 	bottom: 40px;
-	z-index: 999999;
+	z-index: 1001;
 	height: 30px;
 }
 
@@ -12267,7 +12267,7 @@ a.caldisabled[href] {
 .prf-actions {
 	font-size: 15px;
 	line-height: 30px;
-	z-index: 99999;
+	z-index: 1001;
 }
 
 .prf-header {
@@ -12383,7 +12383,7 @@ a.caldisabled[href] {
 	line-height: 15px;
 	/* border-top:1px solid #ebebeb; */
 	background: #30383F;
-	z-index: 99999;
+	z-index: 1001;
 }
 
 .prf-follow-state {
@@ -14203,7 +14203,7 @@ div.js-replies-to.replies-after article.stream-item {
 
 .txt-on-r-dark-blue h1 {
 	font-weight: 400;
-	z-index: 9999999;
+	z-index: 1001;
 	color: #fff;
 }
 
@@ -14262,7 +14262,7 @@ a.txt-r-on-dark-blue {
 	transform: scale(1.05,1.05);
 	box-shadow: 0 30px 70px rgba(17,17,17,0.6);
 	transition: 200ms box-shadow, 200ms transform!important;
-	z-index: 999999;
+	z-index: 1002;
 }
 
 .column-nav-item.draggable-dragging {
@@ -14286,7 +14286,7 @@ a.txt-r-on-dark-blue {
 	image-rendering: -o-crisp-edges;
 	image-rendering: -webkit-optimize-contrast;
 	-ms-interpolation-mode: nearest-neighbor;
-	z-index: 9999999999;
+	z-index: 1001;
 }
 
 .s-profile .pos-l {
@@ -14403,7 +14403,6 @@ a.txt-r-on-dark-blue {
 	overflow: hidden;
 	color: #DADADA!important;
 	right: 5px;
-	display: none;
 }
 
 .js-app-settings .obj-left {
@@ -14610,7 +14609,7 @@ button.js-account-action.btn.btn-light-gray.full-width.margin-tl.btn-extra-heigh
 	position: relative;
 	width: 100%;
 	height: 100%;
-	z-index: 9999999999;
+	z-index: 1001;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: auto;
@@ -14795,7 +14794,7 @@ a#amPm {
 }
 
 .mdl-header-title a {
-	z-index: 9999;
+	z-index: 1001;
 	color: #fff;
 }
 
@@ -14814,11 +14813,11 @@ a#amPm {
 }
 
 .startflow-message-wrap .bg-r-dark-blue .margin-rxl {
-	z-index: 99999;
+	z-index: 1001;
 }
 
 .padding-axl.padding-hxxl.txt-center.txt-extra-large-fixed.bg-r-dark-blue.txt-on-r-dark-blue {
-	z-index: 9999999999;
+	z-index: 1001;
 }
 
 a.js-dismiss.txt-r-on-dark-blue {
@@ -15267,22 +15266,21 @@ button#emojiButton:active .btd-icon-smile {
 
 .tde-drawer-button {
 	top: 5px;
-	z-index: 99999999;
+	z-index: 1001;
 	transition: 150ms all!important;
 }
 
 .hide-detail-view-inline .tde-drawer-button {
 	top: 5px;
-	z-index: 99999999;
 	margin-left: 220px;
-	z-index: 99999999999999;
+	z-index: 1001;
 }
 
 .tde-nav-drawer {
 	background-color: #2E3B41;
 	width: 250px;
 	height: 100%;
-	z-index: 999999999999;
+	z-index: 1001;
 	position: absolute;
 	box-shadow: 0 15px 40px rgba(17,17,17,0.4);
 	transition: 300ms all;
@@ -15298,7 +15296,7 @@ button#emojiButton:active .btd-icon-smile {
 
 .tde-nav-drawer-background {
 	position: absolute;
-	z-index: 999999999;
+	z-index: 1000;
 	background-color: rgba(90, 90, 90, 0.4);
 	height: 100%;
 	width: 100%;
@@ -15327,7 +15325,7 @@ button#emojiButton:active .btd-icon-smile {
 }
 
 .tde-nd-header-photo {
-	z-index: 999999999;
+	z-index: 1001;
 	position: absolute;
 	margin-left: 88px;
 	margin-top: 20px;
@@ -15448,7 +15446,7 @@ button#emojiButton:active .btd-icon-smile {
 
 .tde-nav-divider {
 	width: 100%;
-	/* z-index: 99999999999999999; */
+	/* z-index: 1001; */
 	height: 2px;
 	/* border: 1px #333; */
 	background-color: #38454B;
@@ -15502,7 +15500,7 @@ button#emojiButton:active .btd-icon-smile {
 
 .js-compose-message-recipient-container .js-typeahead-dropdown {
 	left: 10px;
-	z-index: 9999999;
+	z-index: 1001;
 }
 
 .typeahead-dropdown.dropdown-menu .is-selected {
@@ -15607,7 +15605,7 @@ body[class=""], html.js {
 
 .tde-upgrading {
 	margin: 0;
-	z-index: 999999999999999999;
+	z-index: 1001;
 	border-radius: 2px!important;
 	position: absolute;
 	/* margin: auto; */
@@ -15677,7 +15675,7 @@ html.tde-is-upgrading {
 	transition-timing-function: cubic-bezier(.55,0,.1,1)!important;
 	-webkit-transition-timing-function: cubic-bezier(.55,0,.1,1)!important;
 	background-color: #263238;
-	z-index: 999999999999999999;
+	z-index: 1001;
 }
 
 .edit-conversation-name.is-visible {
