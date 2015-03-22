@@ -1,4 +1,4 @@
-/* TweetDeck Enhancer 5.0.4 [codename Paradise] 
+/* TweetDeck Enhancer 5.0.4 [codename Paradise]
 Copyright 2015 Dangered Wolf (@dangeredwolf)
 
 app-light.css */
@@ -3853,7 +3853,7 @@ to {
 }
 
 .is-inverted-dark .facet-type {
-   border-bottom:0px solid #e5e5e5 
+   border-bottom:0px solid #e5e5e5
 }
 
 button.js-toggle-button.btn.js-toggle-tweets {
@@ -4148,7 +4148,7 @@ button.js-toggle-button.btn.js-toggle-users.is-selected:hover {
 .tweet-button .icon-compose:before {
     content: "...";
     color: transparent;
-    background: url(https://dangeredwolf.com/assets/TDE5/compose.png) no-repeat;
+    background: url(compose.png) no-repeat;
     background-size: 24px;
     margin-left: 4px;
     margin-top: 4px;
@@ -4163,7 +4163,7 @@ button.js-toggle-button.btn.js-toggle-users.is-selected:hover {
 .tweet-button .icon-compose:after {
     content: "...";
     color: transparent;
-    background: url(https://ryandolan123.com/assets/tweetdeck/img/back.png) no-repeat;
+    background: url(back.png) no-repeat;
     margin-left: 10px;
     margin-top: 5px;
     width: 26px;
@@ -4423,13 +4423,13 @@ a.mdl-dismiss-media>i.icon.icon-close {
 .sprite {
   display:inline-block;
   vertical-align:text-top;
-  background-image:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/td_sprite_sheet_2013_@1x.png);
+  background-image:url(td_sprite_sheet_2013_@1x.png);
   background-repeat:no-repeat
 }
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
 .sprite {
-  background-image:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/td_sprite_sheet_2013_@2x.png);
+  background-image:url(td_sprite_sheet_2013_@2x.png);
   background-size:240px 110px;
   background-repeat:no-repeat
 }
@@ -4504,7 +4504,7 @@ a.mdl-dismiss-media>i.icon.icon-close {
 .sprite-logo-badge {
   width: 50px;
   height: 50px;
-  background-image: url(https://dangeredwolf.com/assets/tweetdeck/img/TweetDeckBlueSmall.png);
+  background-image: url(TweetDeckBlueSmall.png);
 }
 
 .sprite-logo-badge-large {
@@ -4582,13 +4582,13 @@ a.mdl-dismiss-media>i.icon.icon-close {
 }
 
 .fullname-badged:before {
-  background-image:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/td_sprite_sheet_2013_@1x.png);
+  background-image:url(td_sprite_sheet_2013_@1x.png);
   background-repeat:no-repeat
 }
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
 .fullname-badged:before {
-  background-image:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/td_sprite_sheet_2013_@2x.png);
+  background-image:url(td_sprite_sheet_2013_@2x.png);
   background-size:240px 110px
 }
 }
@@ -4606,7 +4606,7 @@ a.mdl-dismiss-media>i.icon.icon-close {
 }
 
 .svg-warning {
-  background-image:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/warning-icon.svg);
+  background-image:url(warning-icon.svg);
   background-repeat:no-repeat;
   background-size:100% 100%
 }
@@ -5769,7 +5769,7 @@ a.pull-left.margin-txs.txt-mute.txt-small.link-complex:hover {
 }
 
 .column-title-back .icon {
-  background: url(https://dangeredwolf.com/assets/tweetdeck/img/back.png);
+  background: url(back.png);
   z-index: 6;
   position: absolute;
   width: 22px;
@@ -5908,7 +5908,7 @@ a.js-column-back.link-complex:active {
   right:60px
 }
 
-.is-options-open .column-settings-link { 
+.is-options-open .column-settings-link {
   background-color: #26C6DA;
   color: #fff;
   border-color:#222426;
@@ -7847,28 +7847,28 @@ i.icon.icon-move {
 
 .spinner-large {
   height:50px;
-  background:transparent url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/spinner_large_white.gif) no-repeat 50% 50%
+  background:transparent url(spinner_large_white.gif) no-repeat 50% 50%
 }
 
 .spinner-small {
   height:16px;
   width:16px;
   background-color: #fff!important;
-  background:transparent url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/spinner_small_light.gif) no-repeat 50% 50%
+  background:transparent url(spinner_small_light.gif) no-repeat 50% 50%
 }
 
 .spinner-small-trans {
-  background:transparent url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/spinner_small_trans.gif) no-repeat 50% 50%
+  background:transparent url(spinner_small_trans.gif) no-repeat 50% 50%
 }
 
 .is-inverted-dark .spinner-small {
   background-color: #fff!important;
-  background:transparent url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/spinner_small_trans.gif) no-repeat 50% 50%
+  background:transparent url(spinner_small_trans.gif) no-repeat 50% 50%
 }
 
 .is-inverted-dark .spinner-large {
   background-color: #fff!important;
-  background:transparent url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/spinner_large_white.gif) no-repeat 50% 50%
+  background:transparent url(spinner_large_white.gif) no-repeat 50% 50%
 }
 
 .spinner-centered {
@@ -7891,7 +7891,7 @@ i.icon.icon-move {
 .spinner-button-icon-spinner {
   /* background-image:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/spinner-fff-on-55acee.gif); */
   z-index: 999;
-  background-image: url(https://abs.twimg.com/a/1418162186/img/t1/spinner-rosetta-blue.gif);   
+  background-image: url(spinner-rosetta-blue.gif);
   height: 24px;
   width: 24px;
   /* margin-left: -5px; */
@@ -8925,14 +8925,14 @@ i.icon.icon-clear-timeline {
   top:3px;
   left:1px;
   z-index:1;
-  background:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/step3_highlight_@1x.png) no-repeat;
+  background:url(step3_highlight_@1x.png) no-repeat;
   width:400px;
   height:300px
 }
 
 @media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi) {
 .migrate-warning-highlight {
-  background:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/step3_highlight_@2x.png) no-repeat;
+  background:url(step3_highlight_@2x.png) no-repeat;
   background-size:370px 185px
 }
 }
@@ -8981,7 +8981,7 @@ i.icon.icon-clear-timeline {
 }
 
 .migrate-account-login-arrow {
-  background:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/migration-arrow.png) 0 0 no-repeat;
+  background:url(migration-arrow.png) 0 0 no-repeat;
   height:40px;
   width:50px;
   top:65px;
@@ -9633,7 +9633,7 @@ i.icon.icon-clear-timeline {
   -ms-border-radius:2px;
   -o-border-radius:2px;
   border-radius: 0px;
-  -webkit-box-shadow: 0 15px 40px rgba(17,17,17,0.4); 
+  -webkit-box-shadow: 0 15px 40px rgba(17,17,17,0.4);
   -moz-box-shadow: 0 15px 40px rgba(17,17,17,0.4);
   box-shadow: 0 15px 40px rgba(17,17,17,0.4);
   opacity: 1;
@@ -11059,8 +11059,7 @@ input#file-upload-input {
   width:100%;
   text-align:center;
   /* overflow-y:hidden; */
-  background:transparent url(web/assets/global/backgrounds/spinner_large_white.gif) no-repeat 50% 50%;
-  background:transparent url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/spinner_large_white.gif) no-repeat 50% 50%
+  background:transparent url(spinner_large_white.gif) no-repeat 50% 50%
 }
 
 .med-link {
@@ -11918,7 +11917,7 @@ input[type="checkbox"] {
    color: #fff;
 }
 
-.mdl-column.l-column .search-input-control input:input-placeholder { 
+.mdl-column.l-column .search-input-control input:input-placeholder {
    color: #fff;
 }
 
@@ -12261,15 +12260,7 @@ input[type="checkbox"] {
   float:left;
   width:20px;
   height:20px;
-  background:url(prev.gif) no-repeat;
-  background:url(https://dangeredwolf.com/tweetdeck-web/prev.gif) no-repeat;
   cursor:pointer
-}
-
-#calnext {
-  float:right;
-  background-image:url(next.gif);
-  background-image:url(https://dangeredwolf.com/tweetdeck-web/next.gif);
 }
 
 #calprev.caldisabled,#calnext.caldisabled {
@@ -13563,7 +13554,7 @@ a.caldisabled[href] {
   -webkit-box-shadow:0 2px 19px 5px rgba(17,17,17,0.25);
   -moz-box-shadow:0 2px 19px 5px rgba(17,17,17,0.25);
   box-shadow:0 2px 19px 5px rgba(17,17,17,0.25);
-  background: url(https://dangeredwolf.com/assets/tweetdeck/img/TweetDeck.png) no-repeat;
+  background: url(TweetDeck.png) no-repeat;
   padding-left: 402px;
   /* left: 100%; */
   margin-right: -100px;
@@ -13629,7 +13620,7 @@ a.caldisabled[href] {
 .startflow-panel,.startflow-panel-rounded {
   background-color:#fff;
   color:#444;
-  box-shadow: 0 10px 30px rgba(17,17,17,0.25); 
+  box-shadow: 0 10px 30px rgba(17,17,17,0.25);
 }
 
 .startflow-panel-rounded {
@@ -13828,7 +13819,7 @@ a.caldisabled[href] {
 
 .column-nav-link:focus,.column-nav-link:active {
   outline:none;
-  color: rgba(255, 255, 255, 0.2); 
+  color: rgba(255, 255, 255, 0.2);
 }
 
 .column-nav-link.is-selected,.column-nav-link:hover {
@@ -14240,7 +14231,7 @@ button.js-send-tweet-button.js-spinner-button.js-show-tip.btn.btn-positive.btn-e
 .link-clean[href="https://twitter.com/TekFolf"]>.fullname:after,
 .link-clean[href="https://twitter.com/Axel_Hugsky"]>.fullname:after,
 .link-clean[href="https://twitter.com/CPVideoMaker"]>.fullname:after,
-.link-clean[href="https://twitter.com/SmallFaggot"]>.fullname:after, 
+.link-clean[href="https://twitter.com/SmallFaggot"]>.fullname:after,
 .link-clean[href="https://twitter.com/UberEacts"]>.fullname:after,
 .link-clean[href="https://twitter.com/UberFactsEbooks"]>.fullname:after,
 .link-clean[href="https://twitter.com/nulljosh"]>.fullname:after,
@@ -14293,7 +14284,7 @@ a.account-link[href="https://twitter.com/StringsAndTeeth"] .fullname.txt-ellipsi
 a.account-link[href="https://twitter.com/ryand123_privat"] .fullname.txt-ellipsis:after,
 a.account-link[href="https://twitter.com/WilliamcaFox"] .fullname.txt-ellipsis:after
 {
-    background-image:url(https://dangeredwolf.com/tweetdeck-web/web/assets/global/backgrounds/td_sprite_sheet_2013_@1x.png);
+    background-image:url(td_sprite_sheet_2013_@1x.png);
     content: "...";
     width:14px;
     height:14px;
@@ -14552,7 +14543,7 @@ a.txt-r-on-dark-blue {
 }
 
 .btn.btn-back.js-back {
-    background: url(https://dangeredwolf.com/assets/tweetdeck/img/back.png);
+    background: url(back.png);
     margin-top: -782px;
     z-index: 6;
     position: absolute;
@@ -15152,14 +15143,14 @@ button.js-send-tweet-button.js-spinner-button.js-show-tip.btn.btn-positive.btn-e
 .list-placeholder p .spinner-small {
     width: 32px;
     height: 32px;
-    background: transparent url(https://abs.twimg.com/a/1419352959/img/t1/spinner-rosetta-gray-32x32.gif) no-repeat;
+    background: transparent url(spinner-rosetta-gray-32x32.gif) no-repeat;
 }
 
 #tdesettingslistitem {
     margin-top: 10px;
 }
 
-.js-column-nav-list li.column-nav-item.js-column-nav-menu-item { 
+.js-column-nav-list li.column-nav-item.js-column-nav-menu-item {
     display: inline!important;
 }
 
@@ -15368,7 +15359,7 @@ button[data-user-id="892388300"] {
 }
 
 .js-contributor-manager-back .icon {
-  background: url(https://dangeredwolf.com/assets/tweetdeck/img/back.png);
+  background: url(back.png);
   z-index: 6;
   position: absolute;
   width: 22px;
