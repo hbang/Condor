@@ -7,6 +7,6 @@
 * TweetDeck Enhancer has, in the past, changed majorly every few months or so. I just want something that works.
 
 ## License
-Condor is licensed under The MIT License. See <LICENSE>.
+Condor is licensed under The MIT License. See [LICENSE](LICENSE).
 
 Bird glyph in icon is by James Keuning from [The Noun Project](http://thenounproject.com/term/bird/7132/).
