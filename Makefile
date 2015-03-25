@@ -18,6 +18,8 @@ lint:
 		$(CSS)
 
 release: clean extension
+	cp LICENSE extension/LICENSE
+
 	mkdir release
 
 	cd extension && zip -qqr $(ZIPNAME) .
