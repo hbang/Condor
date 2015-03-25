@@ -18,15 +18,16 @@ lint:
 		$(CSS)
 
 release: clean extension
-	cp LICENSE extension/LICENSE
+	mkdir stage release
 
-	mkdir release
+	rsync -ra release/ stage/
+	cp LICENSE stage/LICENSE
 
-	cd extension && zip -qqr $(ZIPNAME) .
+	cd stage && zip -qqr $(ZIPNAME) .
 	cd tools && zip -qq $(ZIPNAME) key.pem
 
-	$(CHROME) --no-message-box --pack-extension=$(PWD)/extension --pack-extension-key=tools/key.pem
-	mv extension.crx release/condor-$(VERSION).crx
+	$(CHROME) --no-message-box --pack-extension=$(PWD)/stage --pack-extension-key=tools/key.pem
+	mv stage.crx release/condor-$(VERSION).crx
 
 clean:
-	-rm -r release
+	-rm -r stage release
