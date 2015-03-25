@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>dangeredwolf</string>
 	<key>Builder Version</key>
-	<string>10600.3.18</string>
+	<string>10600.5.9</string>
 	<key>CFBundleDisplayName</key>
 	<string>Condor</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.0.4</string>
+	<string>5.0.6</string>
 	<key>CFBundleVersion</key>
-	<string>5.0.4</string>
+	<string>5.0.6</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Database Quota</key>
