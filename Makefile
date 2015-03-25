@@ -20,7 +20,7 @@ lint:
 release: clean extension
 	mkdir stage release
 
-	rsync -ra release/ stage/
+	rsync -ra extension/ stage/
 	cp LICENSE stage/LICENSE
 
 	cd stage && zip -qqr $(ZIPNAME) .
