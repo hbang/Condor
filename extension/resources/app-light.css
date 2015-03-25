@@ -12088,8 +12088,8 @@ input[type="checkbox"] {
 .control-label {
 	float: left;
 	width: 120px;
-	padding-top: 5px;
-	text-align: right
+	text-align: right;
+	line-height: 42px
 }
 
 .fixed-width-label {
