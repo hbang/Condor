@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
-		<em:id>dangeredwolf@ryandolan123.com</em:id>
+		<em:id>{7a41cd26-e8a3-4a91-8112-8b20c601e205}</em:id>
 		<em:type>2</em:type>
 		<em:name>Condor</em:name>
-		<em:version>5.0.4</em:version>
+		<em:version>5.0.6</em:version>
 		<em:bootstrap>true</em:bootstrap>
 		<em:description>Condor adds a beautiful new TweetDeck interface, designed for Material Design, and adds other usability features.</em:description>
-		<em:creator>dangeredwolf</em:creator>
+		<em:creator>HASHBANG Productions</em:creator>
 	</Description>
 
 	<!-- Firefox -->
